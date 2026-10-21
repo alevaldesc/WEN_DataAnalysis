@@ -1,0 +1,5 @@
+# Python 3.10 o superior.
+matplotlib>=3.6
+numpy>=1.23
+pandas>=1.5
+openpyxl>=3.0.10
